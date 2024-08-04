@@ -1,6 +1,16 @@
 <footer class="footer">
-  {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-  {% endfor %}
-  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
+	<div class="container">
+		<section class="contact">
+			<h2>Contact</h2>
+			<a title="{{ site.email }}" href="mailto:{{ site.email }}">{{ site.email }}</a>
+		</section>
+		<section class="follow">
+			<h2>Follow</h2>
+			<ul>
+				<li><a title="LinkedIn" href="{{ site.linkedin }}" target="_blank">LinkedIn</a></li>
+				<li><a title="Github" href="{{ site.github }}" target="_blank">Github</a></li>
+				<li><a title="Instagram" href="{{ site.instagram }}" target="_blank">Instagram</a></li>
+			</ul>
+		</section>
+	</div>
 </footer>
