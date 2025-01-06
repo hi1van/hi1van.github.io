@@ -23,4 +23,10 @@ images:
     alt: ""
 
 ---
-<p>hello there</p>
+<p style="margin-bottom: 20px;">Empowering people to touch grass again</p>
+
+<p style="margin-bottom: 20px;"><a href="https://devpost.com/software/breadbox-fuoa68" style="margin-bottom: 20px;">Click this text to find out more on devpost</a></p>
+
+<p style="margin-bottom: 60px;">Big big thank you to my teammate Amanda.</p>
+
+<p>Scroll down for more images</p>
