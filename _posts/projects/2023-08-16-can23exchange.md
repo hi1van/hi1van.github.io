@@ -1,0 +1,93 @@
+---
+layout: project
+permalink: /:title/
+category: projects
+
+project:
+  title: "can23exchange"
+  type: "Photography"
+  logo: "/assets/images/projects/can23exchange/niagara.jpg"
+
+images:
+  - image:
+    url: "/assets/images/projects/can23exchange/niagara.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/park.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/picnic.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/mountains.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/met.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/montebello.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/cedar.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/6ixSkyline.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/subway.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/mcgill1.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/eiffel.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/oiseaux.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/hallstatt.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/montreal.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/snow.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/montroyal.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/mcgill2.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/amstercat.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/subway2.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/ldn.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/6ix.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/condensation.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/bridge.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/louvre.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/munich.jpg"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/can23exchange/nye.jpg"
+    alt: ""
+  
+
+---
+<p>hello there</p>
