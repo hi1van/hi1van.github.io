@@ -19,10 +19,29 @@
 		</section>
 		<section class="projects">
 			<div class="container">
-				<h2>Projects</h2>
+				<h2>Travel</h2>
 				<p>Point and shoot philosophy</p>
 				<ul class="projects-list">
-					{% for item in site.categories.projects reversed %}
+					{% for item in site.categories.travel %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.project.type }}</span>
+								<h3>{{ item.project.title }}</h3>
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</section>
+		<section class="projects">
+			<div class="container">
+				<h2>Personal Projects</h2>
+				<p>Just a bit of fun</p>
+				<ul class="projects-list">
+					{% for item in site.categories.projects %}
 						<li>
 							<a href="{{ item.url | prepend: site.baseurl }}">
 								<div class="img-wrapper">
