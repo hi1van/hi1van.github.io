@@ -90,4 +90,9 @@ images:
   
 
 ---
-<p>hello there</p>
+
+<p style="margin-bottom: 20px;">I don't even know where to start</p>
+
+<p style="margin-bottom: 60px;">Montréal, 4 months, but also other places too</p>
+
+<p>Scroll down for more photos</p>
