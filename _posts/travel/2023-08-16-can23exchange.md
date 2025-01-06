@@ -4,7 +4,7 @@ permalink: /:title/
 category: travel
 
 project:
-  title: "can23exchange"
+  title: "ca23exchange"
   type: "Photography"
   logo: "/assets/images/travel/can23exchange/niagara.jpg"
 
