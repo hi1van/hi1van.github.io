@@ -31,6 +31,6 @@ images:
 ---
 <p style="margin-bottom: 20px;">From the Big Apple to you: delivering an online experience of the world-renowned Metropolitan Museum.</p>
 
-<p style="margin-bottom: 60px;"><a href="https://github.com/hi1van/Hyperlink-Metropolitan-Museum.git" style="margin-bottom: 20px;">Click this text to checkout the GitHub repository</a></p>
+<p style="margin-bottom: 60px;"><a href="https://hyperlink-metropolitan-museum.onrender.com" style="margin-bottom: 20px;">Click this text to visit the website</a></p>
 
 <p>Scroll down for more images</p>
