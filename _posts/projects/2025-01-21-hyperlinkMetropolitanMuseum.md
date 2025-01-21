@@ -6,7 +6,7 @@ category: projects
 project:
   title: "The Hyperlink Metropolitan Museum"
   type: "Personal Project"
-  logo: "/assets/images/projects/hyperlinkMetropolitanMuseum/art.png"
+  logo: "/assets/images/projects/hyperlinkMetropolitanMuseum/thumb.png"
 
 images:
   - image:
@@ -29,10 +29,8 @@ images:
     alt: ""
 
 ---
-<p style="margin-bottom: 20px;">Empowering people to touch grass again</p>
+<p style="margin-bottom: 20px;">From the Big Apple to you: delivering an online experience of the world-renowned Metropolitan Museum.</p>
 
-<p style="margin-bottom: 20px;"><a href="https://devpost.com/software/breadbox-fuoa68" style="margin-bottom: 20px;">Click this text to find out more on devpost</a></p>
-
-<p style="margin-bottom: 60px;">Big big thank you to my teammate Amanda.</p>
+<p style="margin-bottom: 60px;"><a href="https://github.com/hi1van/Hyperlink-Metropolitan-Museum.git" style="margin-bottom: 20px;">Click this text to checkout the GitHub repository</a></p>
 
 <p>Scroll down for more images</p>
