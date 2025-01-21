@@ -10,7 +10,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/home.png"
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/thumb.png"
     alt: ""
   - image:
     url: "/assets/images/projects/hyperlinkMetropolitanMuseum/jump.gif"
