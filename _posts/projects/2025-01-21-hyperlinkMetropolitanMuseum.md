@@ -44,10 +44,10 @@ images:
 <p style="margin-bottom: 10px;">Features</p>
 
 <p style="margin-bottom: 20px;">
-  <li>Random viewing: Don't know what you want to view? Let the museum take you around</li>
-  <li>Browsing by department or popular artist: Have a particular department or featured artist you want to explore? All corresponding art at your fingertips</li>
-  <li>AI Guide Chat integration: Have burning questions? Each artwork display its very own guide for you to ask any question you like</li>
-  <li>Wikipedia integration: Want to dive deeper into an artwork or artist's background? Wikipedia extracts for more info to you and links to associated pages for futher reading</li>
+- Random viewing: Don't know what you want to view? Let the museum take you around<br>
+- Browsing by department or popular artist: Have a particular department or featured artist you want to explore? All corresponding art at your fingertips<br>
+- AI Guide Chat integration: Have burning questions? Each artwork display its very own guide for you to ask any question you like<br>
+- Wikipedia integration: Want to dive deeper into an artwork or artist's background? Wikipedia extracts for more info to you and links to associated pages for futher reading<br>
 </p>
 
 <p style="margin-bottom: 10px;">
@@ -55,37 +55,20 @@ What's next for the Hyperlink Metropolitan Museum?
 </p>
 
 <p style="margin-bottom: 20px;">
-  <li>Add user account functionality - users can collect their favourite artworks in personal collections, users can comment their personal interpretations or comments on artworks, users can upvote art</li>
+- Add user account functionality - users can collect their favourite artworks in personal collections, users can comment their personal interpretations or comments on artworks, users can upvote art<br>
 </p>
 
 <p style="margin-bottom: 10px;">Tools</p>
 
 <p style="margin-bottom: 60px;">
-  <li>Frontend: HTML, CSS, JS, Bulma</li>
-  <li>Backend: Flask</li>
-  <li>Database: PostgreSQL (Amazon RDS)</li>
-  <li>Hosting: Render</li>
-  <li>Museum API: https://metmuseum.github.io</li>
-  <li>AI: Google Gemini API</li>
-  <li>UI/UX Design: Figma</li>
-  <li>Other: Wikipedia API</li>
+- Frontend: HTML, CSS, JS, Bulma<br>
+- Backend: Flask<br>
+- Database: PostgreSQL (Amazon RDS)<br>
+- Hosting: Render<br>
+- Museum API: https://metmuseum.github.io<br>
+- AI: Google Gemini API<br>
+- UI/UX Design: Figma<br>
+- Other: Wikipedia API<br>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p style="margin-bottom: 20px;">From the Big Apple to you: delivering an online experience of the world-renowned Metropolitan Museum.</p>
-
-<p style="margin-bottom: 60px;"><a href="https://hyperlink-metropolitan-museum.onrender.com" style="margin-bottom: 20px;">Click this text to visit the website</a></p>
-
-<p>Scroll down for more images</p>
+<p>Scroll down for more gifs</p>
