@@ -13,13 +13,19 @@ images:
     url: "/assets/images/projects/hyperlinkMetropolitanMuseum/thumb.png"
     alt: ""
   - image:
-    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/jump.gif"
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/jump1.gif"
     alt: ""
   - image:
-    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/browse.gif"
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/browse1.gif"
     alt: ""
   - image:
-    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/cypress.gif"
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/cypress1.gif"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/cypress3.gif"
+    alt: ""
+  - image:
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/cypress2.gif"
     alt: ""
   - image:
     url: "/assets/images/projects/hyperlinkMetropolitanMuseum/gallery.png"
@@ -27,12 +33,15 @@ images:
   - image:
     url: "/assets/images/projects/hyperlinkMetropolitanMuseum/art.png"
     alt: ""
+  - image:
+    url: "/assets/images/projects/hyperlinkMetropolitanMuseum/ai.png"
+    alt: ""
 
 ---
 <p style="margin-bottom: 20px;">Ever wanted to visit the Metropolitan Museum of Art? Look no further.</p>
 
 <p style="margin-bottom: 20px;">Visit the live website here: 
-  <a href="https://www.hypermetmuseum.art">https://www.hypermetmuseum.art</a>
+  <a href="https://www.hypermetmuseum.art" target="_blank">https://www.hypermetmuseum.art</a>
 </p>
 
 <p style="margin-bottom: 10px;">Project Background</p>
