@@ -29,6 +29,61 @@ images:
     alt: ""
 
 ---
+<p style="margin-bottom: 20px;">Ever wanted to visit the Metropolitan Museum of Art? Look no further.</p>
+
+<p style="margin-bottom: 20px;">Visit the live website here: 
+  <a href="https://www.hypermetmuseum.art">https://www.hypermetmuseum.art</a>
+</p>
+
+<p style="margin-bottom: 10px;">Project Background</p>
+
+<p style="margin-bottom: 10px;">The Hyperlink Metropolitan Museum is designed so that you can explore the renowned exhibitions of the MET in a purpose-built virtual experience. In real life, it is easy to find yourself lost in the maze countless rooms of art displays, and I aimed to deliver the same, but online - find yourself lost in the endless web pages, where each page is its own display.</p>
+
+<p style="margin-bottom: 20px;">The experience should also be an educational and enlightening one. Accompanying artworks are Wikipedia extracts and links to artist and artwork Wikipedia pages for further reading (if available). As with real-world museums, you have your very own guide who is there to answer whatever questions you may have to do with the art you are viewing.</p>
+
+<p style="margin-bottom: 10px;">Features</p>
+
+<p style="margin-bottom: 20px;">
+  <li>Random viewing: Don't know what you want to view? Let the museum take you around</li>
+  <li>Browsing by department or popular artist: Have a particular department or featured artist you want to explore? All corresponding art at your fingertips</li>
+  <li>AI Guide Chat integration: Have burning questions? Each artwork display its very own guide for you to ask any question you like</li>
+  <li>Wikipedia integration: Want to dive deeper into an artwork or artist's background? Wikipedia extracts for more info to you and links to associated pages for futher reading</li>
+</p>
+
+<p style="margin-bottom: 10px;">
+What's next for the Hyperlink Metropolitan Museum?
+</p>
+
+<p style="margin-bottom: 20px;">
+  <li>Add user account functionality - users can collect their favourite artworks in personal collections, users can comment their personal interpretations or comments on artworks, users can upvote art</li>
+</p>
+
+<p style="margin-bottom: 10px;">Tools</p>
+
+<p style="margin-bottom: 60px;">
+  <li>Frontend: HTML, CSS, JS, Bulma</li>
+  <li>Backend: Flask</li>
+  <li>Database: PostgreSQL (Amazon RDS)</li>
+  <li>Hosting: Render</li>
+  <li>Museum API: https://metmuseum.github.io</li>
+  <li>AI: Google Gemini API</li>
+  <li>UI/UX Design: Figma</li>
+  <li>Other: Wikipedia API</li>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p style="margin-bottom: 20px;">From the Big Apple to you: delivering an online experience of the world-renowned Metropolitan Museum.</p>
 
 <p style="margin-bottom: 60px;"><a href="https://hyperlink-metropolitan-museum.onrender.com" style="margin-bottom: 20px;">Click this text to visit the website</a></p>
