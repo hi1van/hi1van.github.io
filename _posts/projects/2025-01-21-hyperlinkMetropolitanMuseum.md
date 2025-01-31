@@ -44,6 +44,10 @@ images:
   <a href="https://www.hypermetmuseum.art" target="_blank">https://www.hypermetmuseum.art</a>
 </p>
 
+<p style="margin-bottom: 20px;">GitHub repo: 
+  <a href="https://github.com/hi1van/Hyperlink-Metropolitan-Museum" target="_blank">https://github.com/hi1van/Hyperlink-Metropolitan-Museum</a>
+</p>
+
 <p style="margin-bottom: 10px;">Project Background</p>
 
 <p style="margin-bottom: 10px;">The Hyperlink Metropolitan Museum is designed so that you can explore the renowned exhibitions of the MET in a purpose-built virtual experience. In real life, it is easy to find yourself lost in the maze countless rooms of art displays, and I aimed to deliver the same, but online - find yourself lost in the endless web pages, where each page is its own display.</p>
