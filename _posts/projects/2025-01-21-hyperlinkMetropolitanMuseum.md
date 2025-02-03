@@ -76,7 +76,7 @@ What's next for the Hyperlink Metropolitan Museum?
 <p style="margin-bottom: 60px;">
 - Frontend: HTML, CSS, JS, Bulma<br>
 - Backend: Flask<br>
-- Database: PostgreSQL (Amazon RDS)<br>
+- Database: SQLite<br>
 - Hosting: Render<br>
 - Museum API: https://metmuseum.github.io<br>
 - AI: Google Gemini API<br>
