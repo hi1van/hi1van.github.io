@@ -10,7 +10,7 @@ project:
 
 images:
   - image:
-    url: "/assets/images/projects/spotthatplan/thumb.png"
+    url: "/assets/images/projects/spotthatplane/thumb.png"
     alt: ""
   - image:
     url: "/assets/images/projects/spotthatplane/spotthatplane.gif"
