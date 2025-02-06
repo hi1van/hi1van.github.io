@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /:title/
+permalink: /spotthatplaneblog/
 category: projects
 
 project:
