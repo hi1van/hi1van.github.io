@@ -15,6 +15,9 @@ images:
   - image:
     url: "/assets/images/projects/spotthatplane/spotthatplane.gif"
     alt: ""
+  - image:
+    url: "/assets/images/projects/spotthatplane/white.png"
+    alt: ""
 
 ---
 <p style="margin-bottom: 20px;">Your personal plane-spotting assistant.</p>
