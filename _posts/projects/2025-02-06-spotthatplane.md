@@ -47,8 +47,8 @@ images:
 an assistant of sorts, helping you classify a model of aircraft you may be unsure about out of a given selection.</p>
 
 <p style="margin-bottom: 10px;">Harnessing PyTorch and fast.ai, a deep learning model was trained on a data set of almost 3000 
-images of aircraft in the selection. After training, an error-rate of ~11% was achieved, accurate
-enough for the purposes of this website and my experiment.</p>
+images of aircraft in the selection. After training, an error-rate of ~11% was achieved. However,
+the model struggles with images of planes which are obstructed, cropped or small in the frame.</p>
 
 <p style="margin-bottom: 20px;">You can view the process of training the model and some insights in the Kaggle link.</p>
 
